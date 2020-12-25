@@ -68,12 +68,6 @@ class Tabs extends Component {
           </div>
         </div>
       </Router>
-      // <>
-      // <Switch>
-      //   <Route path='/' Component={Favourite}/>
-      //   <Route path='/' Component={Favouritelist}/>
-      // </Switch>
-      // </>
     )
   }
 }
